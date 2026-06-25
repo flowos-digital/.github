@@ -20,7 +20,7 @@ lives in the engagements.
 
 | Repo | What it does |
 |------|--------------|
-| [**ga4-ai-traffic-attribution**](https://github.com/flowos-digital/ga4-ai-traffic-attribution) | Reclassify ChatGPT/Perplexity/Gemini sessions out of GA4 "Direct" into a dedicated AI Referral channel |
+| [**ga4-ai-traffic-attribution**](https://github.com/flowos-digital/ga4-ai-traffic-attribution) | Give referrer-bearing AI-assistant traffic (ChatGPT, Perplexity, Gemini) its own AI Referral channel in GA4 |
 | [**ai-crawler-allowlist**](https://github.com/flowos-digital/ai-crawler-allowlist) | `robots.txt` + Cloudflare config so AI crawlers can actually reach — and cite — your site |
 | [**aeo-json-ld-templates**](https://github.com/flowos-digital/aeo-json-ld-templates) | JSON-LD `@graph` templates tuned for AI extraction and entity resolution |
 | [**ai-visibility-checklist**](https://github.com/flowos-digital/ai-visibility-checklist) | Vendor-neutral AEO/GEO audit checklist — access → entity → extractability → speed → measurement |
@@ -29,8 +29,8 @@ lives in the engagements.
 
 **70.6%** of AI-referred traffic lands in GA4 as *Direct* — and those sessions convert at
 **10.21%, roughly 4.1× the Direct baseline.** Most brands are making budget decisions
-against a bucket that hides their highest-intent visitors. The fix starts with measuring
-it — see [`ga4-ai-traffic-attribution`](https://github.com/flowos-digital/ga4-ai-traffic-attribution)
+against a bucket that hides their highest-intent visitors. Start by giving the *measurable*
+slice its own channel — see [`ga4-ai-traffic-attribution`](https://github.com/flowos-digital/ga4-ai-traffic-attribution)
 and the study below.
 
 ### Free, no sign-up wall
